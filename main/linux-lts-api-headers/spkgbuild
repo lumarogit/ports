@@ -1,4 +1,4 @@
-# description	: Expose the kernel's API for use by Glibc
+# description	: Headers and scripts for building modules for the LTS Linux kernel
 
 name=linux-lts-api-headers
 version=6.1.51
